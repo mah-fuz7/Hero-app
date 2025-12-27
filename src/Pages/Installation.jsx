@@ -13,7 +13,6 @@ if(sort==='LTH'){
 }
 // remove app
     const[install,setInstall]=useState(()=>{JSON.parse(localStorage.getItem('install')) ||[] }) 
-
 const handleRemove= (id) =>{
  const updatedlist=sortedApps.filter(app=>app.id !== id) 
  setInstall(updatedlist)
@@ -21,7 +20,6 @@ const handleRemove= (id) =>{
 }
 
  
-    // console.log(installApps)
     return (
         <div>
             <div className='flex flex-col items-center my-5'>
