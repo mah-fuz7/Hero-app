@@ -61,9 +61,7 @@ localStorage.setItem('install',JSON.stringify(updateApps))
                         Developed by <span className='text-blue-600'>{companyName}</span>
                     </p>
 
-                    {/* Stats Section */}
                     <div className='flex gap-8 mb-4'>
-                        {/* Downloads */}
                         <div className='flex flex-col items-center'>
                             <div className='w-10 h-10 bg-green-100 rounded-full flex items-center justify-center mb-2'>
                                 <span className='text-2xl'>⬇️</span>
@@ -72,7 +70,6 @@ localStorage.setItem('install',JSON.stringify(updateApps))
                             <p className='text-2xl font-bold text-gray-800'>{downloads}</p>
                         </div>
 
-                        {/* Average Ratings */}
                         <div className='flex flex-col items-center'>
                             <div className='w-10 h-10 bg-yellow-100 rounded-full flex items-center justify-center mb-2'>
                                 <span className='text-2xl'>⭐</span>
@@ -81,7 +78,6 @@ localStorage.setItem('install',JSON.stringify(updateApps))
                             <p className='text-2xl font-bold text-gray-800'>{ratingAvg}</p>
                         </div>
 
-                        {/* Total Reviews */}
                         <div className='flex flex-col items-center'>
                             <div className='w-10 h-10 bg-purple-100 rounded-full flex items-center justify-center mb-2'>
                                 <span className='text-2xl'>💬</span>
@@ -91,7 +87,6 @@ localStorage.setItem('install',JSON.stringify(updateApps))
                         </div>
                     </div>
 
-                    {/* Install Button */}
                     <button disabled={installed} onClick={handleInstall} className='bg-green-500 hover:bg-green-600 text-white font-semibold px-6 py-2.5 rounded-md transition-colors'>
                        {installed?"Installed":`Install Now (${size}MB)`}
                     </button>
