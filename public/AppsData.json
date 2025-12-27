@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "title": "TikTok",
+    "companyName": "ByteDance",
+    "image": "https://i.ibb.co.com/9Hfmb4gv/tiktok-logo-705838-12827.avif",
+    "description": "TikTok is the world's premier destination for short-form mobile video, offering an endless stream of creative, entertaining, and educational content. Its sophisticated algorithm learns your preferences in real-time to curate a highly personalized 'For You' feed.",
+    "size": 185,
+    "reviews": "58M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "4.2M" },
+      { "name": "2 star", "count": "1.8M" },
+      { "name": "3 star", "count": "3.5M" },
+      { "name": "4 star", "count": "8.5M" },
+      { "name": "5 star", "count": "40M" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://i.ibb.co.com/KcWKNghp/instagram-logo-instagram-icon-transparent-free-png.webp",
+    "description": "Instagram is a visual-centric social network designed to bring people closer to the things and people they love. Features include daily Stories, high-quality Reels, and an integrated Shop tab for a seamless e-commerce experience.",
+    "size": 142,
+    "reviews": "145M",
+    "ratingAvg": 4.7,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "5M" },
+      { "name": "2 star", "count": "2M" },
+      { "name": "3 star", "count": "6M" },
+      { "name": "4 star", "count": "22M" },
+      { "name": "5 star", "count": "110M" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "WhatsApp ",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://i.ibb.co.com/gF4M5hPy/download.jpg",
+    "description": "A free, simple, and reliable messaging app used by over two billion people worldwide for secure communication via end-to-end encryption.",
+    "size": 98,
+    "reviews": "182M",
+    "ratingAvg": 4.8,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "3M" },
+      { "name": "2 star", "count": "1.5M" },
+      { "name": "3 star", "count": "7.5M" },
+      { "name": "4 star", "count": "20M" },
+      { "name": "5 star", "count": "150M" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "image": "https://i.ibb.co.com/pBkrF9qq/download.png",
+    "description": "The official mobile application for OpenAI’s AI assistant, providing instant answers, creative inspiration, and productivity assistance through the latest GPT models.",
+    "size": 55,
+    "reviews": "2.1M",
+    "ratingAvg": 4.9,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "45K" },
+      { "name": "2 star", "count": "25K" },
+      { "name": "3 star", "count": "80K" },
+      { "name": "4 star", "count": "250K" },
+      { "name": "5 star", "count": "1.7M" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "image": "https://i.ibb.co.com/B5Vz9J5w/art-illustration-1166422-336.avif",
+    "description": "The world’s largest video-sharing platform, hosting user-generated content, music videos, live streams, and educational tutorials.",
+    "size": 210,
+    "reviews": "155M",
+    "ratingAvg": 4.3,
+    "downloads": "10B",
+    "ratings": [
+      { "name": "1 star", "count": "12M" },
+      { "name": "2 star", "count": "5M" },
+      { "name": "3 star", "count": "15M" },
+      { "name": "4 star", "count": "23M" },
+      { "name": "5 star", "count": "100M" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://i.ibb.co.com/Zp2MNQZn/facebook-logo-vector-facebook-official-logo-vector-facebook-logo-illustrator-1002350-1803.avif",
+    "description": "Connect with friends, family, and people who share the same interests as you. Communicate privately, watch your favorite content, or just spend some spare time in the feed.",
+    "size": 165,
+    "reviews": "135M",
+    "ratingAvg": 4.1,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "20M" },
+      { "name": "2 star", "count": "8M" },
+      { "name": "3 star", "count": "12M" },
+      { "name": "4 star", "count": "15M" },
+      { "name": "5 star", "count": "80M" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "image": "https://i.ibb.co.com/4nzbr3sB/round-snapchat-logo-isolated-white-background-469489-1048.avif",
+    "description": "A fast and fun way to share the moment with friends and family. Snapchat opens right to the camera, so you can send a Snap in seconds!",
+    "size": 125,
+    "reviews": "32M",
+    "ratingAvg": 4.2,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "4M" },
+      { "name": "2 star", "count": "1.5M" },
+      { "name": "3 star", "count": "2.5M" },
+      { "name": "4 star", "count": "4M" },
+      { "name": "5 star", "count": "20M" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "image": "https://i.ibb.co.com/Pspzs6m1/Telegram-logo-svg.webp",
+    "description": "Pure instant messaging — simple, fast, secure, and synced across all your devices. One of the world's top 10 most downloaded apps with over 800 million active users.",
+    "size": 75,
+    "reviews": "12M",
+    "ratingAvg": 4.5,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "800K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "1M" },
+      { "name": "4 star", "count": "1.8M" },
+      { "name": "5 star", "count": "8M" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "image": "https://i.ibb.co.com/05v5GxZ/images.jpg",
+    "description": "Listen to the songs you love and discover new music and podcasts. Spotify gives you access to a world of free music, curated playlists, and artists you love.",
+    "size": 85,
+    "reviews": "28M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "2M" },
+      { "name": "2 star", "count": "1M" },
+      { "name": "3 star", "count": "2.5M" },
+      { "name": "4 star", "count": "4.5M" },
+      { "name": "5 star", "count": "18M" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "CapCut",
+    "companyName": "ByteDance",
+    "image": "https://i.ibb.co.com/HDkCh3GL/capcut-icon.webp",
+    "description": "The official free Video Editor and Video Maker with Music for TikTok that is versatile and easy-to-use.",
+    "size": 130,
+    "reviews": "8.5M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "500K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "600K" },
+      { "name": "4 star", "count": "1.2M" },
+      { "name": "5 star", "count": "6M" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "image": "https://i.ibb.co.com/Y4T8yZQp/images.png",
+    "description": "Shop millions of products, never miss amazing deals, compare prices and reviews and track your orders easily with the Amazon Shopping App.",
+    "size": 115,
+    "reviews": "4M",
+    "ratingAvg": 4.3,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "350K" },
+      { "name": "2 star", "count": "150K" },
+      { "name": "3 star", "count": "400K" },
+      { "name": "4 star", "count": "600K" },
+      { "name": "5 star", "count": "2.5M" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "image": "https://i.ibb.co.com/1t1yWsYh/netflix-mobile-application-logo-free-png.webp",
+    "description": "Watch award-winning series, movies, documentaries, and stand-up specials. With the mobile app, you get Netflix while you travel, commute, or just take a break.",
+    "size": 95,
+    "reviews": "16M",
+    "ratingAvg": 4.4,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "1.2M" },
+      { "name": "2 star", "count": "600K" },
+      { "name": "3 star", "count": "1.5M" },
+      { "name": "4 star", "count": "2.7M" },
+      { "name": "5 star", "count": "10M" }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Duolingo",
+    "companyName": "Duolingo",
+    "image": "https://i.ibb.co.com/S4JW4hvw/images.png",
+    "description": "Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 35+ languages through quick, bite-sized lessons.",
+    "size": 65,
+    "reviews": "22M",
+    "ratingAvg": 4.7,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "800K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "1.2M" },
+      { "name": "4 star", "count": "3.6M" },
+      { "name": "5 star", "count": "16M" }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Uber",
+    "companyName": "Uber Technologies, Inc.",
+    "image": "https://i.ibb.co.com/7J58c7rj/download.png",
+    "description": "Get a ride in minutes. Request a ride, hop in, and go. Uber offers several ways to get around your city, from affordable shared rides to premium black cars.",
+    "size": 110,
+    "reviews": "12M",
+    "ratingAvg": 4.4,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "900K" },
+      { "name": "2 star", "count": "400K" },
+      { "name": "3 star", "count": "1.1M" },
+      { "name": "4 star", "count": "2.1M" },
+      { "name": "5 star", "count": "7.5M" }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "image": "https://i.ibb.co.com/ZpRMZhbr/download.png",
+    "description": "Find ideas for every part of your life, from new recipes to creative home design ideas. Pinterest is the place to explore inspiration.",
+    "size": 70,
+    "reviews": "10M",
+    "ratingAvg": 4.6,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "600K" },
+      { "name": "4 star", "count": "1.3M" },
+      { "name": "5 star", "count": "7.5M" }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Corporation",
+    "image": "https://i.ibb.co.com/JjKwdFBJ/download.jpg",
+    "description": "Build your professional network, stay up to date with the latest business news, and find your next dream job. LinkedIn is the largest professional social network.",
+    "size": 80,
+    "reviews": "5M",
+    "ratingAvg": 4.2,
+    "downloads": "1B",
+    "ratings": [
+      { "name": "1 star", "count": "500K" },
+      { "name": "2 star", "count": "300K" },
+      { "name": "3 star", "count": "600K" },
+      { "name": "4 star", "count": "800K" },
+      { "name": "5 star", "count": "2.8M" }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "image": "https://i.ibb.co.com/YFbxZ30T/download.png",
+    "description": "Reddit is the place where people come together to have the most authentic and interesting conversations on the internet—where gaming communities, nostalgic internet forums, bloggers, and more thrive.",
+    "size": 60,
+    "reviews": "3.5M",
+    "ratingAvg": 4.1,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "500K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "400K" },
+      { "name": "4 star", "count": "600K" },
+      { "name": "5 star", "count": "1.8M" }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Temu",
+    "companyName": "Temu",
+    "image": "https://i.ibb.co.com/rK7Ky8RX/images.png",
+    "description": "Shop on Temu for exclusive offers. Free delivery everywhere! No matter what you're looking for, Temu has you covered.",
+    "size": 90,
+    "reviews": "4.5M",
+    "ratingAvg": 4.5,
+    "downloads": "500M",
+    "ratings": [
+      { "name": "1 star", "count": "300K" },
+      { "name": "2 star", "count": "150K" },
+      { "name": "3 star", "count": "450K" },
+      { "name": "4 star", "count": "800K" },
+      { "name": "5 star", "count": "2.8M" }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "image": "https://i.ibb.co.com/YFx0GnFm/download.png",
+    "description": "Discord is where you can make a home for your communities and friends. Where you can stay close and have fun over text, voice, and video.",
+    "size": 110,
+    "reviews": "6M",
+    "ratingAvg": 4.5,
+    "downloads": "100M",
+    "ratings": [
+      { "name": "1 star", "count": "400K" },
+      { "name": "2 star", "count": "200K" },
+      { "name": "3 star", "count": "500K" },
+      { "name": "4 star", "count": "900K" },
+      { "name": "5 star", "count": "4M" }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "image": "https://i.ibb.co.com/dJLb5SXd/download.jpg",
+    "description": "Be together whenever, with our free all-in-one communication app, complete with unlimited text, voice, video calling and group video chat features.",
+    "size": 140,
+    "reviews": "85M",
+    "ratingAvg": 4.1,
+    "downloads": "5B",
+    "ratings": [
+      { "name": "1 star", "count": "12M" },
+      { "name": "2 star", "count": "5M" },
+      { "name": "3 star", "count": "8M" },
+      { "name": "4 star", "count": "10M" },
+      { "name": "5 star", "count": "50M" }
+    ]
+  }
+]
