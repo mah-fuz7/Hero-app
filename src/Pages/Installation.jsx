@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import InstallApp from '../Components/InstallApp';
+import { toast } from 'react-toastify';
 
 
 const Installation = () => {
@@ -17,6 +18,7 @@ const handleRemove= (id) =>{
  const updatedlist=sortedApps.filter(app=>app.id !== id) 
  setInstall(updatedlist)
  localStorage.setItem('install',JSON.stringify(updatedlist))
+ toast('app uninstall')
 }
 
  

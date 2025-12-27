@@ -23,7 +23,7 @@ const Navbar = () => {
   </div>
   <div className="navbar-end rounded-3xl mr-8">
     
-    <a className="btn text-white bg-purple-700"> <span className='rounded-xl bg-white text-purple-600 pt-0.5 font-bold'><Github  /></span>  Contribute</a>
+    <a href='https://github.com/mah-fuz7' className="btn text-white bg-purple-700"> <span className='rounded-xl bg-white text-purple-600 pt-0.5 font-bold'><Github  /></span>  Contribute</a>
   </div>
 </div>
       </div>

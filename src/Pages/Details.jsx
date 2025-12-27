@@ -3,6 +3,7 @@ import { useParams } from 'react-router';
 import useApps from '../Hooks/useApps';
 import Loading from '../Components/Loading';
 import Chart from '../Components/Chart';
+import { toast } from "react-toastify";
 
 
 const Details = () => {
@@ -16,14 +17,13 @@ const Details = () => {
    
    const{title,companyName,image,size,ratingAvg,downloads,reviews,description}=appData
 const handleInstall = () =>{
-
+toast('app install')
     setInstalled(true)
 const existingApps=JSON.parse(localStorage.getItem('install')) ||{}
 let updateApps=[]
 if(existingApps.length>0){
     const DuplicateApp=existingApps.some(app=>app.id==appData.id)
     if(DuplicateApp){
-         alert('already Install')
          return
     }else{
 updateApps=[...existingApps,appData]

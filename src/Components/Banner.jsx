@@ -19,8 +19,12 @@ const Banner = () => {
                             Our goal is to turn your ideas into digital experiences that truly make an impact.
                         </p>
                         <div className='flex justify-center lg:justify-start gap-4 mb-10'>
-                            <button className="btn  "> <img src={playstoreicon} alt="" className='h-4 ' />play Store </button>
-                            <button className="btn "><img src={appstoreicon} className='h-4' alt="" /> App store</button>
+                            <a href="https://play.google.com/store/games?hl=en&pli=1">                            <button className="btn  "> <img src={playstoreicon} alt="" className='h-4 ' />play Store </button>
+</a>
+<a href="https://www.apple.com/app-store/">
+                                <button className="btn "><img src={appstoreicon} className='h-4' alt="" /> App store</button>
+
+</a>
                         </div>
                     </div>
 
