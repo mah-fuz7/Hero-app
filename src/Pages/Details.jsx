@@ -13,10 +13,8 @@ const Details = () => {
         return <Loading/>
       }
       const appData=appsData.find(app=>app.id==id) || {}
-    //   console.log(appData)
    
    const{title,companyName,image,size,ratingAvg,downloads,reviews,description}=appData
-// add to local storage
 const handleInstall = () =>{
 
     setInstalled(true)
